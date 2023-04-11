@@ -1,0 +1,21 @@
+.sessao_login_cadastro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  gap: 16px;
+}
+
+.userIcon {
+  width: 125px;
+  height: 125px;
+}
+
+.form_login_cadastro {
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+  gap: 16px;
+}
